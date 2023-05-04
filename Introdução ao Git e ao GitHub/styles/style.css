@@ -9,17 +9,12 @@
 	vertical-align: baseline;
 }
 
-.anotacoes {
-    display: flex;
-    width: 90%; 
-    height: 90%;
-    background-color: aliceblue;
-}
-
 #anotacoes-docs {
     display: block;
     margin: 0 auto;
-	width: 700px;
-    height: 1200px;
+	width: 80%;
+    height: 600px;
     justify-content: center;
+    margin-top: 50px;
+    
 }
